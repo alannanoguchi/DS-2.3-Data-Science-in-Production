@@ -1,7 +1,0 @@
-Flask==1.0.2
-flask-restplus==0.12.1
-tensorflow==1.14.0
-keras==2.2.4
-numpy==1.18.5
-Pillow==5.1.0
-Werkzeug==0.16.0
